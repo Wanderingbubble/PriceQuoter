@@ -1,10 +1,17 @@
-Open excel
-enable macros
-Go to sheet "MainOperation"
-Enter the names of products and prices of products
-Use macro7 with shortcut Ctrl-m
-Voila
-Your qoute is ready on them main sheet with 6 currencies!
+## Multiple Currecy Price Quoter
+
+A utility to generate Price quotes for products in multiple currencies.
+
+Steps to use:-
+
+1. Download the repository from the top-right download option github.com https://github.com/Wanderingbubble/PriceQuoter/archive/main.zip  
+2. Unzip and Open excel  
+3. enable macros  
+4. Go to sheet "MainOperation"  
+5. Enter the names of products and prices of products  
+6. Use macro7 with shortcut Ctrl-m  
+ 
+7. And Voila! your qoute is ready on them main sheet with 6 currencies!  
 
 Limitation:-
 For now you can only list 15 products, withtout the editing/modifying the excel sheet.
